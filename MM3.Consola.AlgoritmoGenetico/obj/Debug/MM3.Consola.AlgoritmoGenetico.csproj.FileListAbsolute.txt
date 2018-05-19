@@ -1,0 +1,16 @@
+C:\Maestría\Modulo 3\Practicas\1\MM3.Consola.AlgoritmoGenetico\MM3.Consola.AlgoritmoGenetico\bin\Debug\MM3.Consola.AlgoritmoGenetico.exe.config
+C:\Maestría\Modulo 3\Practicas\1\MM3.Consola.AlgoritmoGenetico\MM3.Consola.AlgoritmoGenetico\bin\Debug\MM3.Consola.AlgoritmoGenetico.exe
+C:\Maestría\Modulo 3\Practicas\1\MM3.Consola.AlgoritmoGenetico\MM3.Consola.AlgoritmoGenetico\bin\Debug\MM3.Consola.AlgoritmoGenetico.pdb
+C:\Maestría\Modulo 3\Practicas\1\MM3.Consola.AlgoritmoGenetico\MM3.Consola.AlgoritmoGenetico\obj\Debug\MM3.Consola.AlgoritmoGenetico.csprojResolveAssemblyReference.cache
+C:\Maestría\Modulo 3\Practicas\1\MM3.Consola.AlgoritmoGenetico\MM3.Consola.AlgoritmoGenetico\obj\Debug\MM3.Consola.AlgoritmoGenetico.exe
+C:\Maestría\Modulo 3\Practicas\1\MM3.Consola.AlgoritmoGenetico\MM3.Consola.AlgoritmoGenetico\obj\Debug\MM3.Consola.AlgoritmoGenetico.pdb
+C:\Maestría\Modulo 3\Practicas\1\MM3.Consola.AlgoritmoGenetico\bin\Debug\MM3.Consola.AlgoritmoGenetico.exe.config
+C:\Maestría\Modulo 3\Practicas\1\MM3.Consola.AlgoritmoGenetico\obj\Debug\MM3.Consola.AlgoritmoGenetico.exe
+C:\Maestría\Modulo 3\Practicas\1\MM3.Consola.AlgoritmoGenetico\obj\Debug\MM3.Consola.AlgoritmoGenetico.pdb
+C:\Maestría\Modulo 3\Practicas\1\MM3.Consola.AlgoritmoGenetico\obj\Debug\MM3.Consola.AlgoritmoGenetico.csprojResolveAssemblyReference.cache
+C:\Maestría\Modulo 3\Practicas\1\MM3.Consola.AlgoritmoGenetico\bin\Debug\MM3.Consola.AlgoritmoGenetico.exe
+C:\Maestría\Modulo 3\Practicas\1\MM3.Consola.AlgoritmoGenetico\bin\Debug\MM3.Consola.AlgoritmoGenetico.pdb
+C:\Maestría\Modulo 3\Practicas\1\MM3.Consola.AlgoritmoGenetico\bin\Debug\MM3.Entidades.AlgoritmoGrafos.dll
+C:\Maestría\Modulo 3\Practicas\1\MM3.Consola.AlgoritmoGenetico\bin\Debug\MM3.Negocio.AlgoritmoGrafos.dll
+C:\Maestría\Modulo 3\Practicas\1\MM3.Consola.AlgoritmoGenetico\bin\Debug\MM3.Entidades.AlgoritmoGrafos.pdb
+C:\Maestría\Modulo 3\Practicas\1\MM3.Consola.AlgoritmoGenetico\bin\Debug\MM3.Negocio.AlgoritmoGrafos.pdb

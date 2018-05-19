@@ -1,0 +1,12 @@
+C:\Users\RuizAdri\Desktop\Desarrollo\ProgsNet\MM3.Negocio.AlgoritmoGrafos\MM3.Negocio.AlgoritmoGrafos\bin\Debug\MM3.Negocio.AlgoritmoGrafos.dll
+C:\Users\RuizAdri\Desktop\Desarrollo\ProgsNet\MM3.Negocio.AlgoritmoGrafos\MM3.Negocio.AlgoritmoGrafos\bin\Debug\MM3.Negocio.AlgoritmoGrafos.pdb
+C:\Users\RuizAdri\Desktop\Desarrollo\ProgsNet\MM3.Negocio.AlgoritmoGrafos\MM3.Negocio.AlgoritmoGrafos\obj\Debug\MM3.Negocio.AlgoritmoGrafos.dll
+C:\Users\RuizAdri\Desktop\Desarrollo\ProgsNet\MM3.Negocio.AlgoritmoGrafos\MM3.Negocio.AlgoritmoGrafos\obj\Debug\MM3.Negocio.AlgoritmoGrafos.pdb
+C:\Users\RuizAdri\Desktop\Desarrollo\ProgsNet\Adr\Maestría\MM3.Negocio.AlgoritmoGrafos\bin\Debug\MM3.Negocio.AlgoritmoGrafos.dll
+C:\Users\RuizAdri\Desktop\Desarrollo\ProgsNet\Adr\Maestría\MM3.Negocio.AlgoritmoGrafos\bin\Debug\MM3.Negocio.AlgoritmoGrafos.pdb
+C:\Users\RuizAdri\Desktop\Desarrollo\ProgsNet\Adr\Maestría\MM3.Negocio.AlgoritmoGrafos\obj\Debug\MM3.Negocio.AlgoritmoGrafos.dll
+C:\Users\RuizAdri\Desktop\Desarrollo\ProgsNet\Adr\Maestría\MM3.Negocio.AlgoritmoGrafos\obj\Debug\MM3.Negocio.AlgoritmoGrafos.pdb
+C:\Maestría\Modulo 3\Practicas\1\MM3.Negocio.AlgoritmoGrafos\bin\Debug\MM3.Negocio.AlgoritmoGrafos.dll
+C:\Maestría\Modulo 3\Practicas\1\MM3.Negocio.AlgoritmoGrafos\bin\Debug\MM3.Negocio.AlgoritmoGrafos.pdb
+C:\Maestría\Modulo 3\Practicas\1\MM3.Negocio.AlgoritmoGrafos\obj\Debug\MM3.Negocio.AlgoritmoGrafos.dll
+C:\Maestría\Modulo 3\Practicas\1\MM3.Negocio.AlgoritmoGrafos\obj\Debug\MM3.Negocio.AlgoritmoGrafos.pdb
